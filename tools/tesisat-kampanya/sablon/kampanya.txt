@@ -1,0 +1,12 @@
+Merhaba $firma_adi ekibi,
+
+[BURAYA KAMPANYA METNİNİZİ YAZIN — ürünler, indirim oranı, geçerlilik tarihi, iletişim bilgileri]
+
+Saygılarımızla,
+[Adınız / Firma adınız]
+[Telefon] · [Web sitesi]
+
+--
+Bu e-postayı firmanızın web sitesinde herkese açık olarak yayımlanan adresinize gönderdik.
+Bir daha almak istemiyorsanız bu e-postayı "RET" yazarak yanıtlamanız yeterli
+(veya $ret_adresi adresine yazın).

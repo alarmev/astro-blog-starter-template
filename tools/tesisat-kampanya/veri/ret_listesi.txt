@@ -1,0 +1,2 @@
+# Bir daha e-posta gönderilmeyecek adresler (her satıra bir adres).
+# "RET" yanıtı gelen adresleri buraya ekleyin.
